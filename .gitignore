@@ -1,0 +1,6 @@
+/log_prueba.txt
+#Ignore log files
+*.log
+#ignonre modules
+modules/
+
